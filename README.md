@@ -47,9 +47,7 @@ A proporção de escolas que oferecem alimentação escolar por município do Ri
 
 📦 pratica-estatistica
 
-. ┣ 📂 indicadores
-
-. ┃ ┗ 📄 dados_indicadores, indicadores_educacionais
+. ┣ 📄 dados_indicadores, indicadores_educacionais
 
 . ┣ 📜 README.md
 
